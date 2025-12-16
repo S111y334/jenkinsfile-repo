@@ -23,6 +23,8 @@ pipeline {
 
 
 
+
+
 // how to run the python file form the jenkins file
 // sh 'python3 your_script.py' 
 
